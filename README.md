@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on VMO Holding VietNam
 - 🌱 I’m currently learning to become a fullstack developer
 - 👯 I’m looking to collaborate on create a new website as a React FrontEnd Developer
-- 📫 How to reach me: [FaceBook Profile](https://www.facebook.com/ngo.tuehai97/)
+- 📫 How to reach me: [FaceBook](https://www.facebook.com/ngo.tuehai97/)
 
 ### Connect with me:
 
