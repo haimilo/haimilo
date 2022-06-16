@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on VMO Holding VietNam
+- 🌱 I’m currently learning to become a fullstack developer
+- 👯 I’m looking to collaborate on create a new website as a React FrontEnd Developer
+- 📫 How to reach me: [...](https://www.facebook.com/ngo.tuehai97/)
 <!--
 **haimilo/haimilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
