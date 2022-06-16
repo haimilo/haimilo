@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hai-ngo-tue-455635204/)
+<!-- [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/hai-ngo-tue-455635204/) -->
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hai-ngo-tue-455635204/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/_painiag_/)
+<!-- [![website](./img/instagram-light.svg)](https://www.instagram.com/_painiag_/) -->
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/_painiag_/)
